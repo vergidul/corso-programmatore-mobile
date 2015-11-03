@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+	<title>presentazione personale</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<!--[if lt IE 9]>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="../primostile.css">
+</head>
+
+<body>
+	<header role="banner">
+		<h1 class=redshadow>STEFANO CROGNALE</h1>
+		<nav role="navigation">
+			<ul>
+				<li><a href=http://www.sweetalks.net/stefano-crognale/>passato</a></li>
+				<li><a href="#presente">presente</a></li>
+				<li><a href="#futuro">futuro</a></li>
+			</ul>
+		</nav>
+	</header>
+
+	<article id="presente">
+		<h2>Presente</br></h2>
+		<h3 title=ciao>tutto quello che sto facendo adesso</h3>
+		<p>Sono qui al corso per imparare a fare proprio questa cosa che sto facendo. 
+						</br><a href="https://it.wikipedia.org/wiki/Antonio_Montanari_(politico)"><b>Antonio Montanari</b></a>(Meldola, 24 ottobre 1811 – Meldola, 6 aprile 1898) è stato un politico, giornalista e docente italiano. Nato a Meldola, studiò Economia all'Università di Bologna. Nel 1837 pubblicò un discorso sulle Casse di Risparmio e sulla necessità di fondarne una a Bologna. Scrisse anche uno studio sull'Irlanda, riguardo alla libertà religiosa e alle riforme di Robert Peel. Collaborò al giornale Il Felsineo di Bologna, dirigendolo dal 7 gennaio 1847 fino al 1848. Insegnò Filosofia della storia all'Università di Bologna, della quale fu anche reggente. Nel settembre del 1848 fu Ministro del Commercio a Roma con Pellegrino Rossi e, dopo l'assassinio di quest'ultimo, fu Ministro dell'Interno e delle Finanze.
+Seguì il Papa Pio IX nella sua fuga a Gaeta ma presto se ne allontanò nel maggio del 1849 per tornare a Bologna. Nel 1859 fu eletto membro della giunta provvisoria di governo dove, sotto il commissariato di Massimo d'Azeglio, fu gerente della sezione degli affari interni e di sicurezza pubblica. Rimase ministro anche sotto il nuovo governatore generale delle Romagne Leonetto Cipriani, fino a diventare Senatore del Regno d'Italia nel 1860.
+Ritiratosi poi a Meldola, ne divenne sindaco dal 1874 fino alla morte.
+</br><b>Opere</b>
+<ul>
+<li class=blushadow>Dei Vantaggi che le Casse di Risparmio arrecano al Consorzio Civile (Bologna, 1837)
+<li>Dei fondamenti della Civiltà – Discorsi sette (Bologna, 1842)
+<li>Osservazioni intorno alle opere di Giacomo Leopardi (Bologna, 1846)
+<li>La legge sulla stampa del 15 marzo e la circolare del 19 aprile 1847 (Bologna, 1847)
+<li>A Vincenzo Gioberti: Lettera (Lucca, 1847 - Torino, 1847)
+<li>Messaggio letto all’apertura dell’Assemblea nazionale delle Romagne (Bologna, 1859)
+<li>Per l’inaugurazione del busto al re Vittorio Emanuele II nella sala comunale di Meldola il giorno 23 giugno 1889 (Meldola, 1889)
+<li>Lezioni sulla filosofia della storia che precedono lo studio comparativo delle tre grandi civiltà mondiali (Bologna, 1897)
+<li>Pensieri di Antonio Montanari sulla Pubblica Istruzione (Meldola, 1898)
+<li>Della letteratura pagana e cristiana e dell’indole e del carattere della Poesia nelle varie scuole Moderne – Quattro discorsi (Bologna, 1945)
+</ul>
+
+</br><b>Onorificenze</b>
+<br>Commendatore dell'Ordine della Corona d'Italia - nastrino per uniforme ordinaria	<br>Commendatore dell'Ordine della Corona d'Italia
+— 9 luglio 1868
+<br>Cavaliere dell'Ordine dei S.S. Maurizio e Lazzaro - nastrino per uniforme ordinaria	Cavaliere dell'Ordine dei S.S. Maurizio e Lazzaro
+— 1862
+<br>Commendatore dell'Ordine dei Santi Maurizio e Lazzaro - nastrino per uniforme ordinaria	Commendatore dell'Ordine dei Santi Maurizio e Lazzaro
+— 1º giugno 1862<br>
+</br><b>Collegamenti esterni</b>
+</br><a href="http://notes9.senato.it/web/senregno.nsf/5d5329b9ed62bffdc125703c004d714b/cd0f6198093d006dc1257069003186f9?OpenDocument">Scheda di Antonio Montanari dal sito del Senato Italiano</a></p>
+			
+		<ol>
+			<li>computer</li>
+			<li>tablet</li>
+			<li>cellulari</li>
+		</ol>
+		<div class=img>
+		<img src=http://www.comune.meldola.fc.it/citta/fotopers/montanari.JPG alt="fotoMontanari" style="width:304px;height:228px;">
+		<div class=desc>Il Senatore </div>
+		</div>
+	</article>
+	
+	<aside role="complementary" id="futuro">
+		<h2>Futuro</h2>
+
+		<table><style>table, th, td {border: 1px solid black;}</style>
+			<tr>
+				<th></th>
+				<th>Gennaio</th>
+				<th>Febbario</th>
+				<th>Marzo</th>
+				<th>Aprile</th>
+			<tr>
+				<th>1</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th></th>
+			<tr>
+				<th>2</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th></th>
+			<tr>
+				<th>3</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th></th>
+			<tr>
+				<th>4</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th></th>
+			<tr>
+				<th>5</th>
+				<th></th>
+				<th></th>
+				<th></th>
+				<th></th>
+				
+		</table>
+	
+	
+	</aside>
+	<hr/>
+	
+	
+	<footer role="contentinfo">
+		<p>&copy; 2015 se lo vuoi devi pagare</p>
+	</footer>
+	
+	
+</body>
+</html>
