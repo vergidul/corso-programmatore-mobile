@@ -41,22 +41,41 @@ Ritiratosi poi a Meldola, ne divenne sindaco dal 1874 fino alla morte.
 </br><a href="http://notes9.senato.it/web/senregno.nsf/5d5329b9ed62bffdc125703c004d714b/cd0f6198093d006dc1257069003186f9?OpenDocument">Scheda di Antonio Montanari dal sito del Senato Italiano</a></p>
 			
 				
-		<a href=https://it.wikipedia.org/wiki/Antonio_Montanari_(politico)><img src=http://www.comune.meldola.fc.it/citta/fotopers/montanari.JPG alt="fotoMontanari" style="width:304px;height:228px;"></a>
+		<a href=https://it.wikipedia.org/wiki/Antonio_Montanari_(politico)><img src=http://www.comune.meldola.fc.it/citta/fotopers/montanari.JPG alt="fotoMontanari"></a>
 		
+		
+ <!-- -->
+
 	</article>
 	
 	<aside role="complementary" id="futuro">
 		<h2>Sevilla</h2>
+		<a><img src=http://static.vueling.com/cms/media/1216312/sevilla.jpg alt="Sevilla"></a>
+				
 Siviglia (in spagnolo Sevilla) è una città di origine ibero-punica della Spagna. Situata nella parte sud-occidentale della penisola iberica, è il capoluogo della Comunità Autonoma dell'Andalusia e della provincia di Siviglia. La città sorge sulle rive del fiume Guadalquivir.
 Con 696 676 abitanti (INE 2014) è la quarta città della Spagna per numero di abitanti. La sua area metropolitana conta 1 508 605 abitanti (INE 2010). Siviglia può essere considerata come il centro artistico, culturale, finanziario, economico e sociale del sud della Spagna.
 Notevole è anche l'interesse turistico, grazie ai numerosi monumenti, piazze, giardini e alla fervente vita notturna. In particolare la Giralda, la Cattedrale, l'Alcázar e l'Archivio delle Indie sono stati dichiarati patrimonio dell'umanità dall'UNESCO nel 1987.
-			
+			<picture>
+				<source media="(min-width: 24em)" srcset="https://responsiveimages.org/demos/basic-implementation/test_landscape_1@4x.jpg.jpg">
+				<source 
+				srcset="https://responsiveimages.org/demos/basic-implementation/test_landscape_1@1x.jpg"
+				alt="Nymphenburg Castle in Munich during sunset">
+				<img src="https://responsiveimages.org/img/demo-crop.jpg">
+			</picture>
 	</aside>
 	
+ <!--<picture>
+  <source media="(min-width: 40em)"
+    srcset="big.jpg 1x, big-hd.jpg 2x">
+  <source 
+    srcset="small.jpg 1x, small-hd.jpg 2x">
+  <img src="fallback.jpg" alt="">
+</picture> -->
 	
 	
 	<footer role="contentinfo">
-		<p>&copy; 2015 se lo vuoi devi pagare</p>
+		<p>&copy; 2015 se lo vuoi devi pagare</p><picture>
+
 	</footer>
 	
 	
