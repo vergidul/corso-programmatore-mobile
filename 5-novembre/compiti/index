@@ -56,11 +56,8 @@ Siviglia (in spagnolo Sevilla) è una città di origine ibero-punica della Spagn
 Con 696 676 abitanti (INE 2014) è la quarta città della Spagna per numero di abitanti. La sua area metropolitana conta 1 508 605 abitanti (INE 2010). Siviglia può essere considerata come il centro artistico, culturale, finanziario, economico e sociale del sud della Spagna.
 Notevole è anche l'interesse turistico, grazie ai numerosi monumenti, piazze, giardini e alla fervente vita notturna. In particolare la Giralda, la Cattedrale, l'Alcázar e l'Archivio delle Indie sono stati dichiarati patrimonio dell'umanità dall'UNESCO nel 1987.
 			<picture>
-				<source media="(min-width: 24em)" srcset="https://responsiveimages.org/demos/basic-implementation/test_landscape_1@4x.jpg.jpg">
-				<source 
-				srcset="https://responsiveimages.org/demos/basic-implementation/test_landscape_1@1x.jpg"
-				alt="Nymphenburg Castle in Munich during sunset">
-				<img src="https://responsiveimages.org/img/demo-crop.jpg">
+				<source media="(min-width: 24em)" src set="https://responsiveimages.org/demos/basic-implementation/test_landscape_1@4x.jpg.jpg">
+				<img src="https://responsiveimages.org/demos/basic-implementation/test_landscape_1@1x.jpg" alt="Nymphenburg Castle in Munich during sunset">
 			</picture>
 	</aside>
 	
